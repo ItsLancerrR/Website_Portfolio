@@ -1,0 +1,46 @@
+/* GLOBAL GENERAL */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* GLOBAL BODY */
+body {
+    background-color: rgb(15, 15, 15);
+}
+
+/* FONTS */
+h1 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 80px;
+}
+
+h2 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+}
+
+h3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+}
+
+p {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+
+/* GRAPHIC DESIGN PORTFOLIO */
+.graphic-design-portfolio h2 {
+    color: white;
+    text-align: center;
+}
+
+.graphic-design-portfolio p {
+    text-align: center;
+}
